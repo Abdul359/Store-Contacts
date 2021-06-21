@@ -1,0 +1,4 @@
+{
+  "mongo": "mongodb+srv://layeeq359:layeeq359@cluster0.onpkq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "secret": "layeeq"
+}
